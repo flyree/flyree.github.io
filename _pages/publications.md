@@ -16,7 +16,7 @@ author_profile: true
 <b>Bo Fang</b>, Jieyang Chen, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <i> the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019), </i> Fast abstract
 
 [8] <b>LetGo: A Lightweight Continuous Framework for HPC Applications upon Failures</b><br>
-<bo>Bo Fang</b>, Qiang Guan, Nathan Debardeleben, Karthik Pattabiraman, Matei Ripeanu <i>The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC) June 2017 </i> (acceptance rate 18%)
+<b>Bo Fang</b>, Qiang Guan, Nathan Debardeleben, Karthik Pattabiraman, Matei Ripeanu <i>The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC) June 2017 </i> (acceptance rate 18%)
 
 [7] <b>SDC is in the Eye of the Beholder: A Survey andPreliminary Study</b><br>
 <b>Bo Fang</b>, Panruo Wu, Qiang Guan, Nathan Debardeleben, Laura Monroe, Sean Blanchard, Zhizong Chen, Karthik Pattabiraman, Matei Ripeanu <i>3rd IEEE International Workshop on Reliability and Security Data Analysis (co-located with DSN 2016), June 2016.</i>
