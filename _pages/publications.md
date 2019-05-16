@@ -9,10 +9,10 @@ author_profile: true
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[10] <b>BonVoision: Leveraging Spatial Data Smoothness for Recovery from Memory Soft Errors</b><br>
+[10] <b>BonVoision: Leveraging Spatial Data Smoothness for Recovery from Memory Soft Errors</b> <br>
 <b>Bo Fang</b>, Hassan Halawa, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <i> ACM International Conference on Supercomputing (ICS’2019) </i> (acceptance rate 23%)
 
-[9] <b>Towards Predicting the Impact of Roll-Forward Failure Recovery for HPCApplications</b><br>
+[9] <b>Towards Predicting the Impact of Roll-Forward Failure Recovery for HPCApplications</b> <br>
 <b>Bo Fang</b>, Jieyang Chen, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <i> the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019), </i> Fast abstract
 
 [8] <b>LetGo: A Lightweight Continuous Framework for HPC Applications upon Failures</b><br>
