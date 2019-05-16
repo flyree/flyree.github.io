@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citations?user=50k_hl8AAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
