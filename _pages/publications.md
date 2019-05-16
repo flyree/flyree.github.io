@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Jounral
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications]</b> <br> 
+<b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth.
+<i>IEEE Transactions on Parallel and Distributed Systems (TPDS).</i>. <b>Accept date: December 2015</b>.
 
 ## Conference and others
