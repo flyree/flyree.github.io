@@ -4,8 +4,41 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal
-[1]<b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
+[1] <b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
 <b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth.
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[10] <b>BonVoision: Leveraging Spatial Data Smoothness for Recovery from Memory Soft Errors</b><br>
+<b>Bo Fang</b>, Hassan Halawa, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <i> ACM International Conference on Supercomputing (ICS’2019) </i> (acceptance rate 23%)
+
+[9] <b>Towards Predicting the Impact of Roll-Forward Failure Recovery for HPCApplications</b><br>
+<b>Bo Fang</b>, Jieyang Chen, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <i> the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019), </i> Fast abstract
+
+[8] <b>LetGo: A Lightweight Continuous Framework for HPC Applications upon Failures</b><br>
+<bo>Bo Fang</b>, Qiang Guan, Nathan Debardeleben, Karthik Pattabiraman, Matei Ripeanu <i>The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC) June 2017 </i> (acceptance rate 18%)
+
+[7] <b>SDC is in the Eye of the Beholder: A Survey andPreliminary Study</b><br>
+<b>Bo Fang</b>, Panruo Wu, Qiang Guan, Nathan Debardeleben, Laura Monroe, Sean Blanchard, Zhizong Chen, Karthik Pattabiraman, Matei Ripeanu <i>3rd IEEE International Workshop on Reliability and Security Data Analysis (co-located with DSN 2016), June 2016.</i>
+
+[6] <b>ePVF: An Enhanced Program Vulnerability Factor Methodology for Cross-Layer Resilience Analysis</b><br>
+<b>Bo Fang</b>, Qining Lu, Karthik Pattabiraman, Matei Ripeanu and Sudhanva Gurumurthi <i>Proceedings of
+the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2016 </i> (acceptance rate 21%)
+
+[5] <b>Evaluating the Error Resilience of Parallel Programs</b><br>
+<b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu and Sudhanva Gurumurthi, <i>Workshop on Fault Tolerance for High-Performance at Extreme Scale (FTXS), In conjunction with DSN 2014 </i>
+
+[4] <b>GPUS: Combining high-performance with high-reliability</b><br>
+L. Bautista Gomez, F. Cappello, L. Carro, N.DeBardeleben, <b>B. Fang</b>, S. Gurumurthi, K. Pattabiraman, P. Rech, M. Sonza Reorda, <i>Embedded tutorial paper (invited), Proceedings of the International Symposium on Design Automation and Test in Europe (DATE), 2014 </i>
+
+[3] <b>GPU-Qin: A Methodlogy for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
+<b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth,
+<i>IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2014,</i>  (acceptance rate 31%).
+
+[2] <b>Towards Building Error Resilient GPGPU Applications</b> <br> 
+<b>Bo Fang</b>, Jiesheng Wei, Karthik Pattabiraman, Matei Ripeanu,
+<i>3rd IEEE Workshop on Resilient Architecture (WRA) in conjunction with MICRO 2012</i>.
+
+[1] <b>Evaluating Error Resiliency of GPGPU Applications</b> <br> 
+<b>Bo Fang</b>, Jiesheng Wei, Karthik Pattabiraman, Matei Ripeanu,
+<i>High Performance Computing, Networking, Storage and Analysis SC12', </i> poster.
