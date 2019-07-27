@@ -9,6 +9,9 @@ author_profile: true
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[11] <b>A Tale of Two Injectors: End-to-End Comparison of IR-level and Assembly-Level Fault Injection</b><br>
+Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> To appear at the IEEE International Symposium on Software Reliability Engineering (ISSRE), 2019 </i> (Acceptance Rate: 31.4%) 
+
 [10] <b>BonVoision: Leveraging Spatial Data Smoothness for Recovery from Memory Soft Errors</b> <br>
 <b>Bo Fang</b>, Hassan Halawa, Karthik Pattabiraman, Matei Ripeanu, Sriram Krishnamoorthy <br><i> ACM International Conference on Supercomputing (ICS’2019) </i> (acceptance rate 23%)
 
