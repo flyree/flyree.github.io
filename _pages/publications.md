@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal
-[2]<b>Improving the Accuracy of IR-level Fault Injection</b><br>
+[2] <b>Improving the Accuracy of IR-level Fault Injection</b><br>
 Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accep date: Feburary 2020.
 
 [1] <b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
@@ -12,7 +12,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[12]<b>Chaser: A Enhanced Fault Injection Tool for TracingSoft Errors in MPI Applications</b><br>
+[12] <b>Chaser: A Enhanced Fault Injection Tool for TracingSoft Errors in MPI Applications</b><br>
 Qiang Guan, Xunchao Hu,Terence Grove, <b>Bo Fang</b>, Hailong Jiang, Heng Yin, Nathen DeBardeleben<br><i> To appear at the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020, tool track) </i> (Acceptance Rate: 16.5%) 
 
 [11] <b>A Tale of Two Injectors: End-to-End Comparison of IR-level and Assembly-Level Fault Injection</b><br>
