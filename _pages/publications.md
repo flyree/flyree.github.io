@@ -12,6 +12,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[13] <b> TensorFlowFI: A Flexible Fault Injection Framework for TensorFlow Applications</b><br>
+Zitao Chen, Niranjhana Narayanan, <b>Bo Fang</b>, Guanpeng Li, Karthik Pattabiraman, Nathan DeBardeleben<br><i> To appear at the IEEE International Symposium on Software Reliability Engineering (ISSRE), 2020 </i> (Acceptance Rate: 25.6%) 
+
 [12] <b>Chaser: A Enhanced Fault Injection Tool for TracingSoft Errors in MPI Applications</b><br>
 Qiang Guan, Xunchao Hu,Terence Grove, <b>Bo Fang</b>, Hailong Jiang, Heng Yin, Nathen DeBardeleben<br><i> To appear at the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020, tool track) </i> (Acceptance Rate: 16.5%) 
 
