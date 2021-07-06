@@ -13,7 +13,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 ## Conference and others
 [14] <b> Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights</b><br>
-<b>Bo Fang</b>, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, Dingwen Taobr<br><i> To appear at the IEEE CLUSTER, 2021 </i> (Acceptance Rate: 29%, co-first author) 
+<b>Bo Fang</b>, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, Dingwen Tao<br><i> To appear at the IEEE CLUSTER, 2021 </i> (Acceptance Rate: 29%, co-first author) 
 
 [13] <b> TensorFlowFI: A Flexible Fault Injection Framework for TensorFlow Applications</b><br>
 Zitao Chen, Niranjhana Narayanan, <b>Bo Fang</b>, Guanpeng Li, Karthik Pattabiraman, Nathan DeBardeleben<br><i> To appear at the IEEE International Symposium on Software Reliability Engineering (ISSRE), 2020 </i> (Acceptance Rate: 25.6%) 
