@@ -13,7 +13,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 ## Conference and others
 [15] <b> QuGAN: A Quantum State Fidelity based Generative Adversarial Network</b><br>
-Samuel A. Stein, Betis Baheri, Ray Marie Tischio, Ying Mao, Qiang Guan, Ang Li, <b>Bo Fang</b>, Shuai Xu<br><i> To appear at the IEEE CLUSTER, 2021 </i> 2021 IEEE International Conference on Quantum Computing and Engineering.
+Samuel A. Stein, Betis Baheri, Ray Marie Tischio, Ying Mao, Qiang Guan, Ang Li, <b>Bo Fang</b>, Shuai Xu<br><i>2021 IEEE International Conference on Quantum Computing and Engineering.</i>
 
 [14] <b> Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights</b><br>
 <b>Bo Fang</b>, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, Dingwen Tao<br><i> To appear at the IEEE CLUSTER, 2021 </i> (Acceptance Rate: 29%, co-first author) 
