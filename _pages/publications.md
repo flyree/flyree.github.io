@@ -12,6 +12,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[16] <b> A Hybrid System for Learning Classical Data in Quantum States. </b> <br>Stein, S. A., L'Abbate, R., Mu, W., Liu, Y., Baheri, B., Mao, Y., Guan, Q., Li, A., & <b>Fang, B</b> </br>.<i> In 2021 IEEE 34th International Performance Computing and Communications Conference (IPCCC), pages 1–8, 2021. IEEE</i>
+
 [15] <b> QuGAN: A Quantum State Fidelity based Generative Adversarial Network</b><br>
 Samuel A. Stein, Betis Baheri, Ray Marie Tischio, Ying Mao, Qiang Guan, Ang Li, <b>Bo Fang</b>, Shuai Xu<br><i>2021 IEEE International Conference on Quantum Computing and Engineering.</i>
 
