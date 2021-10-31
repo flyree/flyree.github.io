@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Journal
 [2] <b>Improving the Accuracy of IR-level Fault Injection</b><br>
-Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accep date: Feburary 2020.
+Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: Feburary 2020.
 
 [1] <b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
 <b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth.<br>
