@@ -12,6 +12,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[18] <b>ASAP - Automatic Synthesis of Area-Efficient and Precision-Aware CGRA</b> <br> Cheng Tan, Thierry Tambe, Jeff Zhang, <b>Bo Fang</b>, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li <br><i>International Conference on Supercomputing. Jun 27-30, 2022 (Accepted)</i>
+
 [17] <b>SV-Sim: Scalable PGAS-based State Vector Simulation of Quantum Circuits.</b> <br> Ang Li, <b>Bo Fang</b>, Christopher Granade, Guen Prawiroatmodjo, Bettina Heim, Martin Roetteler and Sriram Krishnamoorthy, <br><i>The 2021 International Conference for High Performance Computing, Networking, Storage and Analysis, St. Louis, MI, USA. Nov 14-19, 2021</i>
 
 [16] <b> A Hybrid System for Learning Classical Data in Quantum States. </b> <br>Stein, S. A., L'Abbate, R., Mu, W., Liu, Y., Baheri, B., Mao, Y., Guan, Q., Li, A., & <b>Fang, B</b>. <br><i> In 2021 IEEE 34th International Performance Computing and Communications Conference (IPCCC), pages 1–8, 2021. IEEE</i>
