@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal
+[3] <b>Fault Injection for TensorFlow Applications</b><br>
+Niranjhana Narayanan, Zitao Chen, <b>Bo Fang</b>, Guanpeng Li, Karthik Pattabiraman, Nathan DeBardeleben<br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: May 2022.
+
 [2] <b>Improving the Accuracy of IR-level Fault Injection</b><br>
 Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: Feburary 2020.
 
