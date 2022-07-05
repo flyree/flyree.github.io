@@ -15,6 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[20] <b>Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning</b> <br> <b>Bo Fang</b>, M. Yusuf Ozkaya, Ang Li, Umit V. Catalyurek, Sriram Krishnamoorthy <br><i>to appear in IEEE Cluster 2022</i>
+
 [19] <b>Pinpointing the System Reliability Degradation in NISQ Machines</b> <br> Qiang Guan, Betis Baheri, Zixuan Xu, Ying Mao, Vipin Chaudhary, Shuai Xu and <b>Bo Fang</b> <br><i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE22)</i>
 
 [18] <b>ASAP - Automatic Synthesis of Area-Efficient and Precision-Aware CGRA</b> <br> Cheng Tan, Thierry Tambe, Jeff Zhang, <b>Bo Fang</b>, Tong Geng, Gu-Yeon Wei, David Brooks, Antonino Tumeo, Ganesh Gopalakrishnan, Ang Li <br><i>International Conference on Supercomputing. Jun 27-30, 2022 (Accepted)</i>
