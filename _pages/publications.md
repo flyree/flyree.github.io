@@ -15,7 +15,11 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[20] <b>Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning</b> <br> <b>Bo Fang</b>, M. Yusuf Ozkaya, Ang Li, Umit V. Catalyurek, Sriram Krishnamoorthy <br><i>to appear in IEEE Cluster 2022, co-first author</i>
+[21] <b>MARS: Malleable Actor-Critic Reinforcement Learning Scheduler</b> <br> Betis Baheri, Qiang Guan, Jacob Tronge, <b>Bo Fang</b>, Ang Li, Vipin Chaudhary <br><i>2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)</i>
+
+[20] <b>Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning</b> <br> <b>Bo Fang</b>, M. Yusuf Ozkaya, Ang Li, Umit V. Catalyurek, Sriram Krishnamoorthy <br><i>to appear in IEEE Cluster 2022, co-first author</i> 
+
+<b>Nominated for the best paper award</b>
 
 [19] <b>Pinpointing the System Reliability Degradation in NISQ Machines</b> <br> Qiang Guan, Betis Baheri, Zixuan Xu, Ying Mao, Vipin Chaudhary, Shuai Xu and <b>Bo Fang</b> <br><i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE22)</i>
 
