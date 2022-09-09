@@ -19,7 +19,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 [20] <b>Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning</b> <br> <b>Bo Fang</b>, M. Yusuf Ozkaya, Ang Li, Umit V. Catalyurek, Sriram Krishnamoorthy <br><i>to appear in IEEE Cluster 2022, co-first author</i> 
 
-<b>Nominated for the best paper award</b>
+<b>Best paper award</b>
 
 [19] <b>Pinpointing the System Reliability Degradation in NISQ Machines</b> <br> Qiang Guan, Betis Baheri, Zixuan Xu, Ying Mao, Vipin Chaudhary, Shuai Xu and <b>Bo Fang</b> <br><i>2022 IEEE International Conference on Quantum Computing and Engineering (QCE22)</i>
 
