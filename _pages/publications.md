@@ -15,6 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[23]  <b>Practical GPU Floating-Point Exception Detection, Diagnosis and Repair</b>, <br> Xinyi Li, Ignacio Laguna, <b>Bo Fang</b>, Katarzyna Swirydowicz, Ang Li and Ganesh Gopalakrishnan, <br><i> ACM International Symposium on High-Performance Parallel and Distributed Computing, Orlando, FL, USA. June 16-23, 2023 </i>
+
 [22] <b>Towards Precision-Aware Fault-olerance Approaches for Mixed-Precision Applications</b> <br> <b>Bo Fang</b>, Hari Siva, Timonthy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li <br><i>FTXS 2022: Workshop on Fault Tolerance for HPC at eXtreme Scale (co-located at SC22)</i>
 
 [21] <b>MARS: Malleable Actor-Critic Reinforcement Learning Scheduler</b> <br> Betis Baheri, Qiang Guan, Jacob Tronge, <b>Bo Fang</b>, Ang Li, Vipin Chaudhary <br><i>2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)</i>
