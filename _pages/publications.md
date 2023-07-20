@@ -15,6 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[25]  <b>Towards Redefining the Reproducibility in Quantum Computing: A Data Analysis Approach on NISQ Devices</b>, <br> Priyabrata Senapati, Zhepeng Wang, Weiwen Jiang, Travis Humble, <b>Bo Fang</b>, Shuai Xu and Qiang Guan<br><i> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE23 </i>
+
 [24]  <b>AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications</b>, <br> Daoce Wang, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Zarija Lukić, Kai Zhao, <b>Bo Fang</b>, Franck Cappello, James Ahrens, and Dingwen Tao<br><i> Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, CO, USA, Nov 12-17, 2023. Acceptance Rate: 24% </i>
 
 [23]  <b>Practical GPU Floating-Point Exception Detection, Diagnosis and Repair</b>, <br> Xinyi Li, Ignacio Laguna, <b>Bo Fang</b>, Katarzyna Swirydowicz, Ang Li and Ganesh Gopalakrishnan, <br><i> ACM International Symposium on High-Performance Parallel and Distributed Computing, Orlando, FL, USA. June 16-23, 2023 </i>
