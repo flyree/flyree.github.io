@@ -15,13 +15,15 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[26]  <b>MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications</b>, <be><b>Bo Fang</b>, Xinyi Li, Harvey Dam, Cheng Tan, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant Nair, Kevin Barker, Ang Li <br><i> <a href="https://aps.arxiv.org/abs/2311.05782">arXiv</a> </i>
+
 [25]  <b>Towards Redefining the Reproducibility in Quantum Computing: A Data Analysis Approach on NISQ Devices</b>, <br> Priyabrata Senapati, Zhepeng Wang, Weiwen Jiang, Travis Humble, <b>Bo Fang</b>, Shuai Xu and Qiang Guan<br><i> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE23 </i>
 
 [24]  <b>AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications</b>, <br> Daoce Wang, Jesus Pulido, Pascal Grosset, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Zarija Lukić, Kai Zhao, <b>Bo Fang</b>, Franck Cappello, James Ahrens, and Dingwen Tao<br><i> Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, CO, USA, Nov 12-17, 2023. Acceptance Rate: 24% </i>
 
 [23]  <b>Practical GPU Floating-Point Exception Detection, Diagnosis and Repair</b>, <br> Xinyi Li, Ignacio Laguna, <b>Bo Fang</b>, Katarzyna Swirydowicz, Ang Li and Ganesh Gopalakrishnan, <br><i> ACM International Symposium on High-Performance Parallel and Distributed Computing, Orlando, FL, USA. June 16-23, 2023 </i>
 
-[22] <b>Towards Precision-Aware Fault-olerance Approaches for Mixed-Precision Applications</b> <br> <b>Bo Fang</b>, Hari Siva, Timonthy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li <br><i>FTXS 2022: Workshop on Fault Tolerance for HPC at eXtreme Scale (co-located at SC22)</i>
+[22] <b>Towards Precision-Aware Fault-tolerance Approaches for Mixed-Precision Applications</b> <br> <b>Bo Fang</b>, Hari Siva, Timonthy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li <br><i>FTXS 2022: Workshop on Fault Tolerance for HPC at eXtreme Scale (co-located at SC22)</i>
 
 [21] <b>MARS: Malleable Actor-Critic Reinforcement Learning Scheduler</b> <br> Betis Baheri, Qiang Guan, Jacob Tronge, <b>Bo Fang</b>, Ang Li, Vipin Chaudhary <br><i>2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)</i>
 
