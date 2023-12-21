@@ -15,7 +15,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[27] <b>Red-QAOA: Efficient Variational Optimization through Circuit Reduction</b>
+[27] <b>Red-QAOA: Efficient Variational Optimization through Circuit Reduction</b> <br>
 Meng Wang, <b>Bo Fang</b>, Ang Li, and Prashant J. Nair<br>
 <i>In Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024</i>
 
