@@ -12,4 +12,4 @@ I received my Ph.D. in the Electrical and Computer Engineering Department at the
 
 My CV can be found <a href="https://flyree.github.io/files/bo_fang_cv_nov2022.pdf">here</a>
 
-I have served on the program committees of DSN2021/2022/2023, HPDC2023, CCGRID2023, QCE2023, and ICCAD2023. I serve as the artifact evaluation co-chair of ISSRE 2023. 
+I have served on the program committees of DSN2021/2022/2023, HPDC2023, CCGRID2023, QCE2023, ICCAD2023, IPDPS2024, and CCGRID2024. I serve as the artifact evaluation co-chair of ISSRE 2023. 
