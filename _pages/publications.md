@@ -15,8 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[28] <b>A Testing-Guided Approach to Characterize NVIDIA and AMD Matrix Accelerator Numerics</b>, <br> Xinyi Li, Ang Li, <b>Bo Fang</b>, Ignacio Laguna, Ganesh Gopalakrishnan<br>, 
-<i> 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing </i>
+[28] <b>A Testing-Guided Approach to Characterize NVIDIA and AMD Matrix Accelerator Numerics</b>, <br> Xinyi Li, Ang Li, <b>Bo Fang</b>, Ignacio Laguna, Ganesh Gopalakrishnan<br> 
+<i> 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID24) </i>
 
 [27] <b>Red-QAOA: Efficient Variational Optimization through Circuit Reduction</b> <br>
 Meng Wang, <b>Bo Fang</b>, Ang Li, and Prashant J. Nair<br>
