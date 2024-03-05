@@ -16,6 +16,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 ## Conference and others
 
+[28] <b>A Testing-Guided Approach to Characterize NVIDIA and AMD Matrix Accelerator Numerics</b><br> Xinyi Li, Ang Li, <b>Bo Fang</b>, Ignacio Laguna, Ganesh Gopalakrishnan<br>
+<i> 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID24) </i>
+
 [27] <b>Red-QAOA: Efficient Variational Optimization through Circuit Reduction</b> <br>
 Meng Wang, <b>Bo Fang</b>, Ang Li, and Prashant J. Nair<br>
 <i>In Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024</i>
