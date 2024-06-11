@@ -16,6 +16,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 ## Conference and others
 
+[29] <b>Privacy-Preserving Artificial Intelligence on Edge Devices: A Homomorphic Encryption Approach</b><br>Khan M., <b>B. Fang</b>, G. Cimino, S. Cirillo, D. Zhao, and L. Yang</br>
+<i> In International Conference on Web Services 2024 </i>
+
 [28] <b>A Testing-Guided Approach to Characterize NVIDIA and AMD Matrix Accelerator Numerics</b><br> Xinyi Li, Ang Li, <b>Bo Fang</b>, Ignacio Laguna, Ganesh Gopalakrishnan<br>
 <i> 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID24) </i>
 
