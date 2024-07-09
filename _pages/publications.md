@@ -15,6 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[30] <b>HAPPA: A Modular Platform for HPC Application Resilience Analysis with LLMs Embedded</b><br>Hailong Jiang, Jianfeng Zhu, <b>Bo Fang</b>, Kevin Barker, Chao Chen, Ruoming Jin, Qiang Guan</br>
+<i>The 43rd International Symposium on Reliable Distributed Systems (SRDS2024)</i>
 
 [29] <b>Privacy-Preserving Artificial Intelligence on Edge Devices: A Homomorphic Encryption Approach</b><br>Khan M., <b>B. Fang</b>, G. Cimino, S. Cirillo, D. Zhao, and L. Yang</br>
 <i> In International Conference on Web Services 2024 </i>
@@ -26,7 +28,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 Meng Wang, <b>Bo Fang</b>, Ang Li, and Prashant J. Nair<br>
 <i>In Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024</i>
 
-[26]  <b>MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications</b>, <br><b>Bo Fang</b>, Xinyi Li, Harvey Dam, Cheng Tan, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant Nair, Kevin Barker, Ang Li <br><i> <a href="https://aps.arxiv.org/abs/2311.05782">arXiv</a> </i>
+[26]  <b>MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications</b>, <br><b>Bo Fang</b>, Xinyi Li, Harvey Dam, Cheng Tan, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant Nair, Kevin Barker, Ang Li <br><i> <a href="https://aps.arxiv.org/abs/2311.05782">arXiv</a> IEEE Cluster 2024 </i> 
 
 [25]  <b>Towards Redefining the Reproducibility in Quantum Computing: A Data Analysis Approach on NISQ Devices</b>, <br> Priyabrata Senapati, Zhepeng Wang, Weiwen Jiang, Travis Humble, <b>Bo Fang</b>, Shuai Xu and Qiang Guan<br><i> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE23 </i>
 
