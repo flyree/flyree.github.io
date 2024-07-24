@@ -8,14 +8,14 @@ author_profile: true
 Niranjhana Narayanan, Zitao Chen, <b>Bo Fang</b>, Guanpeng Li, Karthik Pattabiraman, Nathan DeBardeleben<br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: May 2022.
 
 [2] <b>Improving the Accuracy of IR-level Fault Injection</b><br>
-Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: Feburary 2020.
+Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: February 2020.
 
 [1] <b>A Systematic Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
 <b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth.<br>
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[31] <b>PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications</b><br>, Priyabrata Senapati, Samuel Yen-Chi Chen, <b>Bo Fang</b>, Tushar M. Athawale, Ang Li, Weiwen Jiang, Cheng Chang Lu, Qiang Guan <br> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE24 
+[31] <b>PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications</b><br> Priyabrata Senapati, Samuel Yen-Chi Chen, <b>Bo Fang</b>, Tushar M. Athawale, Ang Li, Weiwen Jiang, Cheng Chang Lu, Qiang Guan <br> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE24 
 
 [30] <b>HAPPA: A Modular Platform for HPC Application Resilience Analysis with LLMs Embedded</b><br>Hailong Jiang, Jianfeng Zhu, <b>Bo Fang</b>, Kevin Barker, Chao Chen, Ruoming Jin, Qiang Guan<br>
 <i>The 43rd International Symposium on Reliable Distributed Systems (SRDS2024)</i>
@@ -38,7 +38,7 @@ Meng Wang, <b>Bo Fang</b>, Ang Li, and Prashant J. Nair<br>
 
 [23]  <b>Practical GPU Floating-Point Exception Detection, Diagnosis and Repair</b>, <br> Xinyi Li, Ignacio Laguna, <b>Bo Fang</b>, Katarzyna Swirydowicz, Ang Li and Ganesh Gopalakrishnan, <br><i> ACM International Symposium on High-Performance Parallel and Distributed Computing, Orlando, FL, USA. June 16-23, 2023 </i>
 
-[22] <b>Towards Precision-Aware Fault-tolerance Approaches for Mixed-Precision Applications</b> <br> <b>Bo Fang</b>, Hari Siva, Timonthy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li <br><i>FTXS 2022: Workshop on Fault Tolerance for HPC at eXtreme Scale (co-located at SC22)</i>
+[22] <b>Towards Precision-Aware Fault-tolerance Approaches for Mixed-Precision Applications</b> <br> <b>Bo Fang</b>, Hari Siva, Timothy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li <br><i>FTXS 2022: Workshop on Fault Tolerance for HPC at eXtreme Scale (co-located at SC22)</i>
 
 [21] <b>MARS: Malleable Actor-Critic Reinforcement Learning Scheduler</b> <br> Betis Baheri, Qiang Guan, Jacob Tronge, <b>Bo Fang</b>, Ang Li, Vipin Chaudhary <br><i>2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)</i>
 
@@ -91,7 +91,7 @@ the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN),
 [4] <b>GPUS: Combining high-performance with high-reliability</b><br>
 L. Bautista Gomez, F. Cappello, L. Carro, N.DeBardeleben, <b>B. Fang</b>, S. Gurumurthi, K. Pattabiraman, P. Rech, M. Sonza Reorda, <br><i>Embedded tutorial paper (invited), Proceedings of the International Symposium on Design Automation and Test in Europe (DATE), 2014 </i>
 
-[3] <b>GPU-Qin: A Methodlogy for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
+[3] <b>GPU-Qin: A Methodology for Evaluating the Error Resilience of GPGPU Applications</b> <br> 
 <b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth,<br>
 <i>IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2014,</i>  (acceptance rate 31%).
 
