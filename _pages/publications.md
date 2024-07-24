@@ -15,10 +15,12 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[30] <b>HAPPA: A Modular Platform for HPC Application Resilience Analysis with LLMs Embedded</b><br>Hailong Jiang, Jianfeng Zhu, <b>Bo Fang</b>, Kevin Barker, Chao Chen, Ruoming Jin, Qiang Guan</br>
+[31] <b>PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications</b><br>, Priyabrata Senapati, Samuel Yen-Chi Chen, <b>Bo Fang</b>, Tushar M. Athawale, Ang Li, Weiwen Jiang, Cheng Chang Lu, Qiang Guan <br> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE24 
+
+[30] <b>HAPPA: A Modular Platform for HPC Application Resilience Analysis with LLMs Embedded</b><br>Hailong Jiang, Jianfeng Zhu, <b>Bo Fang</b>, Kevin Barker, Chao Chen, Ruoming Jin, Qiang Guan<br>
 <i>The 43rd International Symposium on Reliable Distributed Systems (SRDS2024)</i>
 
-[29] <b>Privacy-Preserving Artificial Intelligence on Edge Devices: A Homomorphic Encryption Approach</b><br>Khan M., <b>B. Fang</b>, G. Cimino, S. Cirillo, D. Zhao, and L. Yang</br>
+[29] <b>Privacy-Preserving Artificial Intelligence on Edge Devices: A Homomorphic Encryption Approach</b><br>Khan M., <b>B. Fang</b>, G. Cimino, S. Cirillo, D. Zhao, and L. Yang<br>
 <i> In International Conference on Web Services 2024 </i>
 
 [28] <b>A Testing-Guided Approach to Characterize NVIDIA and AMD Matrix Accelerator Numerics</b><br> Xinyi Li, Ang Li, <b>Bo Fang</b>, Ignacio Laguna, Ganesh Gopalakrishnan<br>
