@@ -15,7 +15,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
-[32] <b>ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training</b>Yuhang Liang, <b>Bo Fang</b>, Xinyi Li, Jie Ren, Ang Li, Jieyang Chen<br>
+[32] <b>ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training</b><br>Yuhang Liang, <b>Bo Fang</b>, Xinyi Li, Jie Ren, Ang Li, Jieyang Chen<br>
 to appear in 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP 2025)
 
 [31] <b>PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications</b><br> Priyabrata Senapati, Samuel Yen-Chi Chen, <b>Bo Fang</b>, Tushar M. Athawale, Ang Li, Weiwen Jiang, Cheng Chang Lu, Qiang Guan <br> Proceedings of the IEEE International Conference on Quantum Computing and Engineering, QCE24 
