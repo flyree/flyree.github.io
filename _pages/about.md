@@ -12,5 +12,5 @@ I received my Ph.D. in the Electrical and Computer Engineering Department at the
 
 My CV can be found <a href="https://flyree.github.io/files/bo_fang_cv_nov2022.pdf">here</a>
 
-I have served on the program committees of DSN2021/2022/2023/2025, HPDC2023, CCGRID2023, QCE2023, ICCAD2023, IPDPS2024, CCGRID2024 and ISSRE2024. I serve as the artifact evaluation co-chair of ISSRE 2023. I also organized the quantum-classical cooperative computing workshop (QCCC) in 2023 and 2024. I am co-chairing the FTXS24 and DSML24. 
+I am the program committee members of DSN2021/2022/2023/2025, HPDC2023/2025, CCGRID2023/2024, QCE2023, ICCAD2023, IPDPS2024 and ISSRE2024. I serve as the artifact evaluation co-chair of ISSRE 2023. I also organized the quantum-classical cooperative computing workshop (QCCC) in 2023 and 2024. I am co-chairing the FTXS24 and DSML24. 
 
