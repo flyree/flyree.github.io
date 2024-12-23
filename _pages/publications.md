@@ -15,6 +15,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[33] <b>Be Aware of Metadata Corruption in Parallel File System: It Can Be Silent and Catastrophic</b><br>Saisha Kamat, Mai Zheng, <b>Bo Fang</b>, Dong Dai<br>
+to appear in 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)
+
 [32] <b>ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training</b><br>Yuhang Liang, <b>Bo Fang</b>, Xinyi Li, Jie Ren, Ang Li, Jieyang Chen<br>
 to appear in 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP 2025)
 
