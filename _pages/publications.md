@@ -15,6 +15,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conference and others
+[34] <b> BMQSim: Overcoming Memory Constraints in Quantum Circuit Simulation with a High-Fidelity Compression Framework</b><br>Boyuan Zhang, <b>Bo Fang</b>, Fanjiang Ye, Luanzheng Guo, Fengguang Song, Tallent Nathan, Dingwen Tao<br>
+to appear in ACM International Conference on Supercomputing (ICS 2025)
+
 [33] <b>Be Aware of Metadata Corruption in Parallel File System: It Can Be Silent and Catastrophic</b><br>Saisha Kamat, Mai Zheng, <b>Bo Fang</b>, Dong Dai<br>
 to appear in 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)
 
