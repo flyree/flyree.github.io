@@ -14,7 +14,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <b>Bo Fang</b>, Karthik Pattabiraman, Matei Ripeanu, and Sudhanva Gurumurth.<br>
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
-## Conference and others
+## Conferences and others
+[35] <b>FT2: First-Token-Inspired Online Fault Tolerance on Critical Layers for Generative Large Language Models</b><br>Yu Sun, Zhu Zhu, Cherish Mulpuru, Roberto Gioiosa, Zhao Zhang, <b>Bo Fang</b>, Lishan Yang<br>to appear in ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025) 
+
 [34] <b> BMQSim: Overcoming Memory Constraints in Quantum Circuit Simulation with a High-Fidelity Compression Framework</b><br>Boyuan Zhang, <b>Bo Fang</b>, Fanjiang Ye, Luanzheng Guo, Fengguang Song, Tallent Nathan, Dingwen Tao<br>
 to appear in ACM International Conference on Supercomputing (ICS 2025)
 
