@@ -15,6 +15,8 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conferences and others
+[37]  <b>QDockBench: A Protein-Ligand Docking Benchmark on Utility-Level Quantum Computers</b><br>Yuqi Zhang, Yuxin Yang, Cheng-Chang Lu, Yao Wan, Weiwen Jiang, Feixiong Cheng,  <b>Bo Fang</b>, Qiang Guan<br>  the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025)
+
 [36] <b>Can Large Language Models Understand Intermediate Representations?</b><br>Hailong Jiang, Jianfeng Zhu, Yao Wan, <b>Bo Fang</b>, Hongyu Zhang, Ruoming Jin, Qiang Guan<br> Forty-second International Conference on Machine Learning (ICML 2025)
 
 [35] <b>FT2: First-Token-Inspired Online Fault Tolerance on Critical Layers for Generative Large Language Models</b><br>Yu Sun, Zhu Zhu, Cherish Mulpuru, Roberto Gioiosa, Zhao Zhang, <b>Bo Fang</b>, Lishan Yang<br>to appear in ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025) 
