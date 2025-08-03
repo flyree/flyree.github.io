@@ -16,7 +16,7 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 
 ## Conferences and others
 [38]  <b>Demystifying the Resilience of Large Language Model Inference: An End-to-End Perspective</b><br>Yu Sun, Zachary Coalson, Shiyang Chen,
-Hang Liu, Zhao Zhang, Sanghyun Hong, <b>Bo Fang</>b, Lishan Yang<br>  the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025)
+Hang Liu, Zhao Zhang, Sanghyun Hong, <b>Bo Fang</b>, Lishan Yang<br>  the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025)
 
 [37]  <b>QDockBench: A Protein-Ligand Docking Benchmark on Utility-Level Quantum Computers</b><br>Yuqi Zhang, Yuxin Yang, Cheng-Chang Lu, Yao Wan, Weiwen Jiang, Feixiong Cheng,  <b>Bo Fang</b>, Qiang Guan<br>  the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025)
 
