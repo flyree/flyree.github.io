@@ -12,7 +12,7 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 Prior to UTA, I was a staff computer scientist in the HPC group at PNNL. 
 
-I am the recipient of the William C. Carter PhD Dissertation Award in Dependability 2020, honourable mention of the 2020 SIGHPC Doctoral Dissertation Award, and the Exceptional Contribution Award of the HPC group at PNNL in 2022.
+I am the recipient of the William C. Carter PhD Dissertation Award in Dependability 2020, honourable mention of the 2020 SIGHPC Doctoral Dissertation Award, and the Exceptional Contribution Award of the HPC group at PNNL in 2022. I received the best paper award at IEEE Cluster 2022 and the best paper runner-up at ACM ICS 2025. 
 
 My CV can be found <a href="https://flyree.github.io/files/cv_bo_Aug25.pdf">here</a>
 
