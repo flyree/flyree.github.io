@@ -16,7 +16,7 @@ I am the recipient of the William C. Carter PhD Dissertation Award in Dependabil
 
 My CV can be found <a href="https://flyree.github.io/files/cv_bo_Aug25.pdf">here</a>
 
-I am the program committee members of DATE2026, ICPP2025, ICCD2025, SRDS2025, DSN2021/2022/2023/2025, HPDC2023/2025, CCGRID2023/2024, QCE2023/2024/2025, ICCAD2023, IPDPS2024, ICPP2025 and ISSRE2024. I serve as the artifact evaluation co-chair of ISSRE 2023. I also organized the quantum-classical cooperative computing workshop (QCCC) in 2023 and 2024. I am co-chairing the FTXS24 and DSML24.
+I am the program committee members of DATE2026, ICPP2025, ICCD2025, SRDS2025, DSN2021/2022/2023/2025, HPDC2023/2025, CCGRID2023/2024, QCE2023/2024/2025/2026, ICCAD2023, IPDPS2024, ICPP2025 and ISSRE2024. I serve as the artifact evaluation co-chair of ISSRE 2023. I also organized the quantum-classical cooperative computing workshop (QCCC) in 2023 and 2024. I am co-chairing the FTXS24 and DSML24.
 
  
 
