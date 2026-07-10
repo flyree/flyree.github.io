@@ -15,7 +15,9 @@ Lucas Palazzi, Guanpeng Li, <b>Bo Fang</b>, and Karthik Pattabiraman <br><i> IEE
 <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i> Accept date: December 2015.
 
 ## Conferences and others
-[39]  <b>VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification </b><br>Runbang Hu, <b>Bo Fang</b>, Bingzhe Li, Yuede Ji <br> The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD26')
+[40]  <b>Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware </b><br>Yuqi Zhang, <b>Bo Fang</b>, Yuxin Yang, Feixiong Cheng, Jieyang Chen, Sherry Fang, Siwei Chen, Junhan Zhao, Qiang Guan <br> The International Conference for High Performance Computing, Networking, Storage, and Analysis 2026 (SC26')
+
+[39]  <b>VeriHGN: Heterogeneous Graph-based Congestion Prediction for Chip Layout Verification </b><br>Runbang Hu, <b>Bo Fang</b>, Bingzhe Li, Yuede Ji <br> The 2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD26', Oral)
 
 [38]  <b>Demystifying the Resilience of Large Language Model Inference: An End-to-End Perspective</b><br>Yu Sun, Zachary Coalson, Shiyang Chen,
 Hang Liu, Zhao Zhang, Sanghyun Hong, <b>Bo Fang</b>, Lishan Yang<br>  the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025)
