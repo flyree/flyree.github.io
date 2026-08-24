@@ -4,12 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* CSE 4380/5380: Information Security I [Fall 2026]
+* CSE 4380/5380: Information Security I [Spring 2026]
+* CSE 4380/5380: Information Security I [Fall 2025]
 
-<!--
-Add courses below, newest first, using the format:
-
-* CSE-XXXX: Course Title [Fall 2026]
-
-Then uncomment the "Teaching" entry in _data/navigation.yml so the page
-appears in the site navigation.
--->
+<!-- Add new courses at the top, using the format above. -->

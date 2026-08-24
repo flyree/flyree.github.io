@@ -9,12 +9,11 @@ main:
   - title: "Awards"
     url: /award/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Service"
     url: /service/
-
-# Uncomment once the page has real content (see _pages/teaching.md)
-#  - title: "Teaching"
-#    url: /teaching/
 
 # Uncomment once the page has real content (see _pages/nexq.md)
 #  - title: "NEXQ Lab"
