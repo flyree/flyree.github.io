@@ -10,8 +10,9 @@ redirect_from:
 ---
 
 Dr. Bo Fang is an Assistant Professor in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/).
-His research is organized around two pillars: <strong>Resilient HPC and AI Systems</strong> and <strong>Quantum Computing Systems</strong>.
-The first pillar spans error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. The second pillar spans large-scale quantum circuit simulation, quantum noise characterization and mitigation, and quantum machine learning. His work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
+He directs the <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> at UTA.
+His research spans two main areas: <strong>Quantum Computing Systems</strong> and <strong>Resilient HPC and AI Systems</strong>.
+The first area covers large-scale quantum circuit simulation, quantum noise characterization and mitigation, and quantum machine learning. The second area covers error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. His work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
 
 He received his Ph.D. from the Electrical and Computer Engineering Department at the University of British Columbia, advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/) and [Prof. Matei Ripeanu](https://www.ece.ubc.ca/~matei/), and his B.Eng. from Wuhan University, China. Prior to UT Arlington, he was a staff computer scientist in the HPC group at Pacific Northwest National Laboratory (PNNL).
 
