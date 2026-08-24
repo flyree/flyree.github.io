@@ -39,7 +39,7 @@ author_profile: true
   .area-card.resilient .area-tag{ background:#fbe8f4; color:#b83280; }
 </style>
 
-My research spans two main areas: <strong>Quantum Computing Systems</strong>, which makes quantum computation practical to characterize, trust, and apply to real scientific problems, and <strong>Resilient HPC and AI Systems</strong>, which makes large-scale computing and learning systems dependable in the presence of faults.
+My research spans two main areas: <strong>Quantum Computing Systems</strong>, which makes quantum computation practical to simulate, characterize, and apply to real scientific problems, and <strong>Resilient HPC and AI Systems</strong>, which makes large-scale computing and learning systems dependable in the presence of faults.
 
 <div class="areas-grid" markdown="1">
 
@@ -48,7 +48,7 @@ My research spans two main areas: <strong>Quantum Computing Systems</strong>, wh
 
 ### Quantum Computing Systems
 
-Quantum hardware is noisy and its behavior is hard to predict, so turning quantum computation into a usable scientific instrument requires systems research. This area covers <strong>quantum-HPC driven scientific discovery</strong>, <strong>quantum noise characterization and mitigation</strong> on NISQ devices, <strong>reproducibility of quantum results</strong>, and <strong>quantum machine learning and applications</strong>.
+Quantum hardware is noisy and its behavior is hard to predict, so turning quantum computation into a usable scientific instrument requires systems research. This area covers <strong>quantum-HPC driven scientific discovery</strong>, <strong>large-scale quantum circuit simulation</strong> on HPC platforms, <strong>quantum noise characterization and mitigation</strong> on NISQ devices, <strong>reproducibility of quantum results</strong>, and <strong>quantum machine learning and applications</strong>.
 
 <span style="color:blue">Publications</span>: Quantum Sampling for Protein Structure (SC '26), QDockBench (SC '25), BMQSim (ICS '25), Red-QAOA (ASPLOS '24), PQML (QCE '24), Reproducibility on NISQ Devices (QCE '23), Hierarchical State Vector Simulation (Cluster '22), NISQ Reliability Degradation (QCE '22), SV-Sim (SC '21), QuGAN (QCE '21)
 
