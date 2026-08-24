@@ -12,7 +12,7 @@ redirect_from:
 Dr. Bo Fang is an Assistant Professor in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/).
 He directs the <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> at UTA.
 His research spans two main areas: <strong>Quantum Computing Systems</strong> and <strong>Resilient HPC and AI Systems</strong>.
-The first area covers large-scale quantum circuit simulation, quantum noise characterization and mitigation, and quantum machine learning. The second area covers error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. His work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
+The first area covers quantum-HPC driven scientific discovery, quantum noise characterization and mitigation, and quantum machine learning. The second area covers error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. His work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
 
 He received his Ph.D. from the Electrical and Computer Engineering Department at the University of British Columbia, advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/) and [Prof. Matei Ripeanu](https://www.ece.ubc.ca/~matei/), and his B.Eng. from Wuhan University, China. Prior to UT Arlington, he was a staff computer scientist in the HPC group at Pacific Northwest National Laboratory (PNNL).
 
@@ -22,7 +22,7 @@ His CV can be found [here](https://flyree.github.io/files/cv_bo_Aug25.pdf).
 
 Openings
 ======
-My group has openings for <strong>self-motivated Ph.D. students</strong> to work on resilient HPC/AI systems and quantum computing systems. I can also advise <strong>M.S. students working towards a thesis</strong> and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to bo.fang@uta.edu.
+The <strong>NEXQ lab</strong> has openings for <strong>self-motivated Ph.D. students</strong> to work on quantum computing systems and resilient HPC/AI systems. I can also advise <strong>M.S. students working towards a thesis</strong> and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to bo.fang@uta.edu.
 
 News
 ======

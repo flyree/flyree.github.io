@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Group"
-permalink: /group/
+title: "NEXQ Lab"
+permalink: /nexq/
 author_profile: true
 ---
 
-<strong>Resilient HPC and AI Systems, and Quantum Computing Systems</strong>
+The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> works on Quantum Computing Systems, and Resilient HPC and AI Systems.
 
-My group has openings for <strong>self-motivated Ph.D. students</strong>, <strong>M.S. students working towards a thesis</strong>, and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to bo.fang@uta.edu.
+The NEXQ lab has openings for <strong>self-motivated Ph.D. students</strong>, <strong>M.S. students working towards a thesis</strong>, and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to bo.fang@uta.edu.
 
 <!--
 ## PhD Students
 
 Add one block per student inside the grid below, put headshots in /images/,
-then uncomment the "Group" entry in _data/navigation.yml so the page appears
-in the site navigation.
+then uncomment the "NEXQ Lab" entry in _data/navigation.yml so the page
+appears in the site navigation.
 
 <style>
   .students-grid{
