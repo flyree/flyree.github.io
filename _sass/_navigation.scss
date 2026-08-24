@@ -177,7 +177,8 @@
   min-width: 250px;
   background: $background-color;
 
-  a {
+  a,
+  .masthead__menu-item--disabled {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
@@ -186,6 +187,14 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+    }
+  }
+  .masthead__menu-item--disabled {
+    color: $light-gray;
+    cursor: default;
+
+    &:hover {
+      color: $light-gray;
     }
   }
 
