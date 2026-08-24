@@ -30,6 +30,8 @@ News
 
 [Jul. 2026] : Our paper "Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware" is accepted to <strong>SC '26</strong>!
 
+[Jun. 2026] : Our research is supported by the <strong>NVIDIA Academic Grant Program</strong>!
+
 [May. 2026] : Our VeriHGN paper on heterogeneous graph-based congestion prediction for chip layout verification is accepted to <strong>KDD '26</strong> and selected for <strong>oral presentation</strong>!
 
 [2026] : I am serving as the program co-chair of the <strong>ICPP '26 quantum track</strong>.

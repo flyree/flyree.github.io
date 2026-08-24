@@ -33,13 +33,3 @@ author_profile: true
     * IEEE Transactions on Parallel and Distributed Systems (TPDS)
     * Journal of Parallel and Distributed Computing (JPDC)
     * IEEE Computer Architecture Letters
-
-* **External Reviewer**
-    * SC, 2020, 2021
-    * HPDC, 2014 - 2020
-    * DSN, 2015 - 2020
-    * IEEE ISSRE, 2016
-
-* **Student Volunteer**
-    * IEEE Pacific Rim International Symposium on Dependable Computing (PRDC), 2012
-    * IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2015
