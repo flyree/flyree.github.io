@@ -28,32 +28,12 @@ News
 
 <!-- Add newer items at the top, using the same [Mon. Year] : ... format. -->
 
-[2026] : Our paper "Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware" is accepted to <strong>SC '26</strong>!
+[Jul. 2026] : Our paper "Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware" is accepted to <strong>SC '26</strong>!
 
-[2026] : Our VeriHGN paper on heterogeneous graph-based congestion prediction for chip layout verification is accepted to <strong>KDD '26</strong> and selected for <strong>oral presentation</strong>!
+[May. 2026] : Our VeriHGN paper on heterogeneous graph-based congestion prediction for chip layout verification is accepted to <strong>KDD '26</strong> and selected for <strong>oral presentation</strong>!
 
 [2026] : I am serving as the program co-chair of the <strong>ICPP '26 quantum track</strong>.
 
-[2025] : Our BMQSim paper on overcoming memory constraints in quantum circuit simulation received the <strong>Best Paper Runner-up at ACM ICS 2025</strong>!
+[Nov. 2025] : Two papers are presented at <strong>SC '25</strong>: "Demystifying the Resilience of Large Language Model Inference: An End-to-End Perspective" and "QDockBench: A Protein-Ligand Docking Benchmark on Utility-Level Quantum Computers".
 
-[2025] : Two papers are accepted to <strong>SC '25</strong>: "Demystifying the Resilience of Large Language Model Inference" and "QDockBench: A Protein-Ligand Docking Benchmark on Utility-Level Quantum Computers".
-
-[2025] : Our paper "Can Large Language Models Understand Intermediate Representations?" is accepted to <strong>ICML 2025</strong>!
-
-[2025] : Our FT2 paper on first-token-inspired online fault tolerance for generative LLMs is accepted to <strong>HPDC 2025</strong>!
-
-[2025] : Our ATTNChecker paper on highly-optimized fault tolerant attention for LLM training is accepted to <strong>PPoPP 2025</strong>!
-
-[2025] : Our paper on metadata corruption in parallel file systems is accepted to <strong>IPDPS 2025</strong>!
-
-[2024] : Our Red-QAOA paper on efficient variational optimization through circuit reduction is accepted to <strong>ASPLOS 2024</strong>!
-
-[2024] : I am co-chairing <strong>FTXS '24</strong> and <strong>DSML '24</strong>.
-
-[2023] : I served as the <strong>artifact evaluation co-chair of ISSRE 2023</strong>, and organized the Quantum-Classical Cooperative Computing workshop (<strong>QCCC</strong>) in 2023 and 2024.
-
-[2022] : Our paper "Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning" received the <strong>Best Paper Award at IEEE Cluster 2022</strong>!
-
-[2022] : I received the <strong>Exceptional Contribution Award</strong> of the HPC group at PNNL.
-
-[2020] : I received the <strong>William C. Carter PhD Dissertation Award in Dependability</strong>, and an <strong>honourable mention of the SIGHPC Doctoral Dissertation Award</strong>.
+[Aug. 2025] : I joined the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the University of Texas at Arlington as a tenure-track Assistant Professor.
