@@ -3,20 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Research"
+    url: /projects/
 
+  - title: "Awards"
+    url: /award/
+
+  - title: "Service"
+    url: /service/
+
+# Uncomment once the page has real content (see _pages/teaching.md)
 #  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+#    url: /teaching/
+
+# Uncomment once the page has real content (see _pages/group.md)
+#  - title: "Group"
+#    url: /group/

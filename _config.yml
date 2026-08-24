@@ -13,7 +13,7 @@ name                     : &name "Bo Fang"
 description              : &description "personal description"
 url                      : https://flyree.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "flyree.github.io"
+repository               : "flyree/flyree.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Bo Fang"
   avatar           : "IMG_1738.jpeg"
-  bio              : "Assistant Professor"
-  location         : "Texas, USA"
-  employer         : "University of Texas at Arlington"
+  bio              : "Assistant Professor,\n Department of Computer Science and Engineering,\n University of Texas at Arlington"
+  location         : "Arlington, TX"
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=50k_hl8AAAAJ&hl=en"
-  email            :
+  email            : "bo.fang@uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,6 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      :
   lastfm           :
   linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
@@ -178,20 +180,23 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  service:
+    output: true
+    permalink: /:collection/:path/
+  lab:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -224,21 +229,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _service
   - scope:
       path: ""
-      type: portfolio
+      type: service
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _lab
   - scope:
       path: ""
-      type: talks
+      type: lab
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
@@ -252,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
