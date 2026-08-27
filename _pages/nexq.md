@@ -104,7 +104,10 @@ point its src at the new file.
 <div class="students-grid">
 
   <div style="text-align:center;">
-    <img src="../images/avatar-placeholder.svg" alt="Mark Dubynskyi" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <!-- Drop the real headshot at images/Mark.jpg and it replaces the placeholder automatically. -->
+    <img src="../images/Mark.jpg"
+         onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
+         alt="Mark Dubynskyi" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Mark Dubynskyi</strong></div>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
       <li style="margin:0;"><small>Also affiliated with the Department of Mathematics</small></li>
