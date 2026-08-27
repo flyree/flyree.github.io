@@ -20,7 +20,7 @@ The NEXQ lab has openings for <strong>self-motivated Ph.D. students</strong>, <s
        style="width:100%;min-width:720px;height:auto;display:block;">
 </figure>
 
-Quantum processors are best understood not as replacements for classical computing but as a new class of accelerator in the heterogeneous HPC stack — one whose comparative advantage is sampling from classically intractable probability distributions. The closed-loop workflow illustrated here embodies this division of labor: application problems from chemistry, materials, spin systems, and combinatorial optimization are encoded as Hamiltonians; the QPU executes a shallow parameterized circuit and samples it to propose a compact candidate subspace; and the classical HPC system does what it does best — projecting the Hamiltonian into that subspace, solving the resulting eigenproblem at scale, and driving the optimizer that refines the circuit parameters for the next iteration.
+Quantum processors are best understood not as replacements for classical computing but as a new class of accelerator in the heterogeneous HPC stack — one whose comparative advantage is sampling from classically intractable probability distributions. We build closed-loop workflows around that division of labor: the QPU proposes a compact candidate subspace, and the classical HPC system solves and refines it at scale.
 
 <!--
 ### Second Research Direction
