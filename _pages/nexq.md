@@ -25,6 +25,27 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
   }
   .direction-split__figure{ overflow-x:auto; margin:0; }
   .direction-split__figure img{ width:100%; height:auto; display:block; }
+
+  /* The theme's default scale renders h3 at body size, so headings do not
+     read as headings. Open the steps up and separate the sections. */
+  .archive .page__title{ font-size:2rem; margin-bottom:0.6em; }
+
+  .archive h2{
+    font-size:1.5rem;
+    margin-top:3.25rem;
+    padding-top:1.4rem;
+    border-top:1px solid #e3e3e3;
+  }
+
+  .archive h3{
+    font-size:1.16rem;
+    margin-top:2.25rem;
+    margin-bottom:0.75rem;
+    color:#494e52;
+  }
+
+  /* Breathing room between the two directions */
+  .direction-split{ margin-bottom:2.5rem; }
 </style>
 
 <div class="direction-split">
