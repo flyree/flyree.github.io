@@ -2,7 +2,7 @@
 layout: archive
 title: "NEXQ Lab"
 permalink: /nexq/
-author_profile: true
+author_profile: false
 ---
 
 The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> works on Quantum Computing Systems, and Resilient HPC and AI Systems.
@@ -13,14 +13,35 @@ The NEXQ lab has openings for <strong>self-motivated Ph.D. students</strong>, <s
 
 ### Quantum-HPC Driven Scientific Discovery
 
-<figure style="margin:16px 0 20px;overflow-x:auto;">
+<style>
+  .direction-split{
+    display:grid;
+    gap:28px;
+    grid-template-columns:1fr;
+    align-items:center;
+    margin:16px 0 24px;
+  }
+  @media (min-width:900px){
+    /* Give the wide figure the larger share; the summary is short */
+    .direction-split{ grid-template-columns:minmax(0,1.35fr) minmax(0,1fr); }
+  }
+  .direction-split__figure{ overflow-x:auto; margin:0; }
+  .direction-split__figure img{ width:100%; height:auto; display:block; }
+</style>
+
+<div class="direction-split">
+
+<figure class="direction-split__figure">
   <img src="../images/quantum_hpc_workflow.svg"
        alt="Closed-loop quantum and HPC workflow. Application problems in chemistry and materials, spin and lattice models, and combinatorial optimization are encoded as a Hamiltonian H. Step 1, on the QPU, samples a parameterized circuit to draw basis configurations spanning a low-dimensional candidate subspace. Step 2, on the classical HPC system, projects H onto that subspace and diagonalizes it for the lowest eigenvalue E(theta). Step 3, also on HPC, uses E(theta) as the objective for a classical optimizer, which updates the circuit parameters for the next iteration."
-       loading="lazy"
-       style="width:100%;min-width:720px;height:auto;display:block;">
+       loading="lazy">
 </figure>
 
+<div markdown="1">
 Quantum processors are best understood not as replacements for classical computing but as a new class of accelerator in the heterogeneous HPC stack — one whose comparative advantage is sampling from classically intractable probability distributions. We build closed-loop workflows around that division of labor: the QPU proposes a compact candidate subspace, and the classical HPC system solves and refines it at scale.
+</div>
+
+</div>
 
 <!--
 ### Second Research Direction
