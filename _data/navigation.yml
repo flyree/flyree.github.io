@@ -15,8 +15,5 @@ main:
   - title: "Service"
     url: /service/
 
-  # Shown in the nav but not clickable until the page has real content
-  # (see _pages/nexq.md). Drop `disabled` to turn it back into a link.
   - title: "NEXQ Lab"
     url: /nexq/
-    disabled: true
