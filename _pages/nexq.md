@@ -24,7 +24,6 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
     .direction-split{ grid-template-columns:minmax(0,1.35fr) minmax(0,1fr); }
   }
   .direction-split__figure{ overflow-x:auto; margin:0; }
-  .direction-prose{ max-width:68ch; }
   .direction-split__figure img{ width:100%; height:auto; display:block; }
 </style>
 
@@ -44,14 +43,18 @@ A quantum processor is not a replacement for a classical computer — it is a ne
 
 ### AI–HPC Co-Design
 
-<!--
-When a figure is ready, wrap this section in a <div class="direction-split">
-with a <figure class="direction-split__figure"> ahead of the text, exactly as
-the first direction does above.
--->
+<div class="direction-split">
 
-<div class="direction-prose" markdown="1">
+<figure class="direction-split__figure">
+  <img src="../images/ai_hpc_codesign.svg"
+       alt="AI and HPC co-design for scientific computing. Scientific workloads — simulation and surrogate modeling, molecular and materials discovery, and experiment analysis and steering — send problems and data to AI models, and accuracy and scale demands to HPC system design. AI workload properties (scaling behavior, tolerance to low precision, communication and dataflow patterns, sensitivity to faults) drive system design, while systems (heterogeneous accelerators and precision formats, interconnect topology, memory and storage hierarchy, scheduling and fault management) improve AI performance and reliability. Together they yield faster, more accurate, and more reliable scientific discovery."
+       loading="lazy">
+</figure>
+
+<div markdown="1">
 AI workloads have distinctive properties — predictable scaling, precision tolerance, structured communication, fault sensitivity — that should guide HPC system design. In return, well-designed systems make AI faster, more reliable, and more reproducible. This co-design loop determines how fast and how trustworthy AI-driven discovery can be.
+</div>
+
 </div>
 
 ## PhD Students
