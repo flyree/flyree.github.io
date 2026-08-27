@@ -24,6 +24,7 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
     .direction-split{ grid-template-columns:minmax(0,1.35fr) minmax(0,1fr); }
   }
   .direction-split__figure{ overflow-x:auto; margin:0; }
+  .direction-prose{ max-width:68ch; }
   .direction-split__figure img{ width:100%; height:auto; display:block; }
 </style>
 
@@ -36,17 +37,22 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
 </figure>
 
 <div markdown="1">
-Quantum processors are best understood not as replacements for classical computing but as a new class of accelerator in the heterogeneous HPC stack — one whose comparative advantage is sampling from classically intractable probability distributions. We build closed-loop workflows around that division of labor: the QPU proposes a compact candidate subspace, and the classical HPC system solves and refines it at scale.
+A quantum processor is not a replacement for a classical computer — it is a new kind of accelerator. What it does best is sample from probability distributions that classical machines cannot reach. We design workflows that let each machine do what it is good at: the quantum processor proposes a small, promising subspace, and the HPC system solves and refines it at scale.
 </div>
 
 </div>
+
+### AI–HPC Co-Design
 
 <!--
-### Second Research Direction
-
-Add the title, figure, and description for the second direction here,
-following the same pattern as above.
+When a figure is ready, wrap this section in a <div class="direction-split">
+with a <figure class="direction-split__figure"> ahead of the text, exactly as
+the first direction does above.
 -->
+
+<div class="direction-prose" markdown="1">
+AI workloads have distinctive properties — predictable scaling, precision tolerance, structured communication, fault sensitivity — that should guide HPC system design. In return, well-designed systems make AI faster, more reliable, and more reproducible. This co-design loop determines how fast and how trustworthy AI-driven discovery can be.
+</div>
 
 ## PhD Students
 
