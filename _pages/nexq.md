@@ -9,12 +9,7 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
 
 The NEXQ lab has openings for <strong>self-motivated Ph.D. students</strong>, <strong>M.S. students working towards a thesis</strong>, and <strong>motivated undergraduate students</strong>. If you are interested, please send your CV and transcript to bo.fang@uta.edu.
 
-<!--
 ## PhD Students
-
-Add one block per student inside the grid below, put headshots in /images/,
-then uncomment the "NEXQ Lab" entry in _data/navigation.yml so the page
-appears in the site navigation.
 
 <style>
   .students-grid{
@@ -32,20 +27,27 @@ appears in the site navigation.
   }
 </style>
 
+<!--
+To add a student, copy one block below, drop the headshot in /images/, and
+point its src at the new file.
+-->
+
 <div class="students-grid">
 
   <div style="text-align:center;">
-    <img src="../images/STUDENT.jpg" alt="Student Name" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div>
-    <strong>Student Name</strong>
+    <img src="../images/avatar-placeholder.svg" alt="Mark Dubynskyi" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Mark Dubynskyi</strong></div>
     <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small>BS, University</small></li>
+      <li style="margin:0;"><small>Also affiliated with the Department of Mathematics</small></li>
     </ul>
-    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="../images/Zubair.jpg" alt="Zubair Faruqui" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Zubair Faruqui</strong></div>
+    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
+      <li style="margin:0;"><small><a href="https://zubairfaruqui10.github.io/">Website</a></small></li>
+    </ul>
   </div>
 
 </div>
-
-* **Alumni**
-    * Name (MS) &rarr; Position
--->
