@@ -44,6 +44,14 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
     color:#494e52;
   }
 
+  /* One-line caption under a student's name */
+  .student-note{
+    font-size:12.5px;
+    line-height:1.35;
+    margin-top:3px;
+    color:#6f777d;
+  }
+
   /* Breathing room between the two directions */
   .direction-split{ margin-bottom:2.5rem; }
 </style>
@@ -109,17 +117,12 @@ point its src at the new file.
          onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
          alt="Mark Dubynskyi" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Mark Dubynskyi</strong></div>
-    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small>Also affiliated with the Department of Mathematics</small></li>
-    </ul>
+    <div class="student-note">Also affiliated with the Department of Mathematics</div>
   </div>
 
   <div style="text-align:center;">
     <img src="../images/Zubair.jpg" alt="Zubair Faruqui" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Zubair Faruqui</strong></div>
-    <ul style="list-style:disc;margin:4px auto 0;padding-left:18px;text-align:left;display:inline-block;line-height:1.1;">
-      <li style="margin:0;"><small><a href="https://zubairfaruqui10.github.io/">Website</a></small></li>
-    </ul>
+    <div><strong><a href="https://zubairfaruqui10.github.io/">Zubair Faruqui</a></strong></div>
   </div>
 
 </div>
