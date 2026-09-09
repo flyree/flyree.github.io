@@ -125,8 +125,7 @@ point its src at the new file.
   </div>
 
   <div style="text-align:center;">
-    <!-- Awaiting the headshot: upload it as images/Xi.jpg and it replaces the placeholder automatically. -->
-    <img src="../images/Xi.jpg"
+    <img src="../images/Xi.png"
          onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
          alt="Xi Ai" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong>Xi Ai</strong></div>
