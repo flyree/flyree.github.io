@@ -52,6 +52,11 @@ The <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> wor
     color:#6f777d;
   }
 
+  /* One name per line, with the cohort set back */
+  .undergrad-list{ list-style:none; margin:0.5rem 0 0; padding:0; }
+  .undergrad-list li{ margin:0 0 0.4rem; }
+  .undergrad-list .cohort{ color:#6f777d; font-size:0.8em; margin-left:0.5em; }
+
   /* Breathing room between the two directions */
   .direction-split{ margin-bottom:2.5rem; }
 </style>
@@ -132,3 +137,13 @@ point its src at the new file.
   </div>
 
 </div>
+
+
+## Undergraduate Students
+
+<ul class="undergrad-list">
+  <li>Nhut Phung <span class="cohort">UR2PhD '26</span></li>
+  <li>Manish Shrestha <span class="cohort">UR2PhD '26</span></li>
+  <li>Mehruba Tanzid Ontika <span class="cohort">UR2PhD '25</span></li>
+  <li>Cong Thanh Tran <span class="cohort">UR2PhD '25</span></li>
+</ul>
