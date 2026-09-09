@@ -112,7 +112,6 @@ point its src at the new file.
 <div class="students-grid">
 
   <div style="text-align:center;">
-    <!-- Drop the real headshot at images/Mark.jpg and it replaces the placeholder automatically. -->
     <img src="../images/Mark.jpg"
          onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
          alt="Mark Dubynskyi" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
@@ -123,6 +122,14 @@ point its src at the new file.
   <div style="text-align:center;">
     <img src="../images/Zubair.jpg" alt="Zubair Faruqui" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
     <div><strong><a href="https://zubairfaruqui10.github.io/">Zubair Faruqui</a></strong></div>
+  </div>
+
+  <div style="text-align:center;">
+    <!-- Awaiting the headshot: upload it as images/Xi.jpg and it replaces the placeholder automatically. -->
+    <img src="../images/Xi.jpg"
+         onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
+         alt="Xi Ai" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
+    <div><strong>Xi Ai</strong></div>
   </div>
 
 </div>
