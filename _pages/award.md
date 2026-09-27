@@ -4,6 +4,7 @@ title: "Selected Awards"
 permalink: /award/
 author_profile: true
 ---
+* <strong>Amazon Research Award</strong> (Build on Trainium, Spring 2026), "STRATA: Adaptive Roll-Forward Recovery with Hierarchical Checkpoint/Restart for Trainium Post-Training", $200,000 (AWS credits), 2026
 * <strong>NVIDIA Academic Grant Program</strong>, 2026
 * <strong>STARs (Science and Technology Acquisition and Retention) Program Award</strong>, University of Texas, $60,000 (equipment), 2025
 * <strong>Best Paper Runner-up</strong> at the ACM International Conference on Supercomputing (ICS), 2025
