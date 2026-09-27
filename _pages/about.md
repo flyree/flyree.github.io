@@ -9,16 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Bo Fang is an Assistant Professor in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/).
-He directs the <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> at UTA.
-His research spans two main areas: <strong>Quantum Computing Systems</strong> and <strong>Resilient HPC and AI Systems</strong>.
-The first area covers quantum-HPC driven scientific discovery, large-scale quantum circuit simulation, quantum noise characterization and mitigation, and quantum machine learning. The second area covers error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. His work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
+I am an Assistant Professor in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/).
+I direct the <strong>Next-generation EXascale and Quantum systems (NEXQ) lab</strong> at UTA.
+My research spans two main areas: <strong>Quantum Computing Systems</strong> and <strong>Resilient HPC and AI Systems</strong>.
+The first area covers quantum-HPC driven scientific discovery, large-scale quantum circuit simulation, quantum noise characterization and mitigation, and quantum machine learning. The second area covers error resilience and fault injection for HPC, GPU, and machine learning workloads, fault tolerance for large language model training and inference, and precision-aware reliability for mixed-precision hardware. My work has appeared at prestigious HPC, dependability, and quantum venues, including SC, ASPLOS, PPoPP, HPDC, ICS, IPDPS, DSN, and ICML.
 
-He received his Ph.D. from the Electrical and Computer Engineering Department at the University of British Columbia, advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/) and [Prof. Matei Ripeanu](https://www.ece.ubc.ca/~matei/), and his B.Eng. from Wuhan University, China. Prior to UT Arlington, he was a staff computer scientist in the HPC group at Pacific Northwest National Laboratory (PNNL).
+I received my Ph.D. from the Electrical and Computer Engineering Department at the University of British Columbia, advised by [Prof. Karthik Pattabiraman](https://blogs.ubc.ca/karthik/) and [Prof. Matei Ripeanu](https://www.ece.ubc.ca/~matei/), and my B.Eng. from Wuhan University, China. Prior to UT Arlington, I was a staff computer scientist in the HPC group at Pacific Northwest National Laboratory (PNNL).
 
-He is the recipient of the <strong>William C. Carter PhD Dissertation Award in Dependability (2020)</strong>, an <strong>honourable mention of the 2020 SIGHPC Doctoral Dissertation Award</strong>, and the <strong>Exceptional Contribution Award</strong> of the HPC group at PNNL (2022). His research won the <strong>best paper award at IEEE Cluster 2022</strong> and the <strong>best paper runner-up at ACM ICS 2025</strong>.
+I am the recipient of the <strong>William C. Carter PhD Dissertation Award in Dependability (2020)</strong>, an <strong>honourable mention of the 2020 SIGHPC Doctoral Dissertation Award</strong>, and the <strong>Exceptional Contribution Award</strong> of the HPC group at PNNL (2022). My research won the <strong>best paper award at IEEE Cluster 2022</strong> and the <strong>best paper runner-up at ACM ICS 2025</strong>.
 
-His CV can be found [here](https://flyree.github.io/files/cv_bo_Aug25.pdf).
+My CV can be found [here](https://flyree.github.io/files/cv_bo_Aug25.pdf).
 
 Openings
 ======
