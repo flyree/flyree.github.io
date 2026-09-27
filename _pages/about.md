@@ -29,6 +29,8 @@ News
 
 <!-- Add newer items at the top, using the same [Mon. Year] : ... format. -->
 
+[Sep. 2026] : Our proposal "STRATA: Adaptive Roll-Forward Recovery with Hierarchical Checkpoint/Restart for Trainium Post-Training" received the <strong>Amazon Research Award</strong> (Build on Trainium, Spring 2026), with $200,000 in AWS credits!
+
 [Jul. 2026] : Our paper "Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware" is accepted to <strong>SC '26</strong>!
 
 [Jun. 2026] : Our research is supported by the <strong>NVIDIA Academic Grant Program</strong>!
