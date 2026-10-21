@@ -10,6 +10,10 @@ author_profile: true
 
 Here is the [full publication list](/full_publications/).
 
+* Quantum-Guided Ensemble Generation for Accurate Drug-Binding Pocket Prediction: Application to KRAS.<br/>
+Yuqi Zhang, Yunguang Qiu, William Martin, Yuxin Yang, Sixu Chen, <strong>Bo Fang</strong>, Jieyang Chen, Zixu Wang, Sherry Fang, Siwei Chen, Junhan Zhao, Junzhou Huang, Joseph Loscalzo, Qiang Guan, Ruth Nussinov, Feixiong Cheng<br/>
+<strong>[PNAS]</strong>, Proceedings of the National Academy of Sciences<br/>
+
 * Quantum Sampling Architecture for Protein Structure Reconstruction on Utility-Scale Hardware.<br/>
 Yuqi Zhang, <strong>Bo Fang</strong>, Yuxin Yang, Feixiong Cheng, Jieyang Chen, Sherry Fang, Siwei Chen, Junhan Zhao, Qiang Guan<br/>
 <strong>[SC '26]</strong>, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)<br/>
