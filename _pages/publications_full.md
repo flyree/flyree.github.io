@@ -9,6 +9,9 @@ author_profile: true
 {% endif %}
 
 ## Journal
+[4] <b>Quantum-Guided Ensemble Generation for Accurate Drug-Binding Pocket Prediction: Application to KRAS</b><br>
+Yuqi Zhang, Yunguang Qiu, William Martin, Yuxin Yang, Sixu Chen, <b>Bo Fang</b>, Jieyang Chen, Zixu Wang, Sherry Fang, Siwei Chen, Junhan Zhao, Junzhou Huang, Joseph Loscalzo, Qiang Guan, Ruth Nussinov, Feixiong Cheng<br><i> Proceedings of the National Academy of Sciences (PNAS) </i> Accept date: October 2026.
+
 [3] <b>Fault Injection for TensorFlow Applications</b><br>
 Niranjhana Narayanan, Zitao Chen, <b>Bo Fang</b>, Guanpeng Li, Karthik Pattabiraman, Nathan DeBardeleben<br><i> IEEE Transactions on Dependable and Secure Computing (TDSC) </i> Accept date: May 2022.
 
