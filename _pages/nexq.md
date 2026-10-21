@@ -140,7 +140,7 @@ point its src at the new file.
     <img src="../images/Mahir.jpg"
          onerror="this.onerror=null;this.src='../images/avatar-placeholder.svg';"
          alt="Mahir Shahriar Dhrubo" style="width:128px;height:128px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 10px;">
-    <div><strong>Mahir Shahriar Dhrubo</strong></div>
+    <div><strong><a href="https://mahirdhrubo.github.io/">Mahir Shahriar Dhrubo</a></strong></div>
     <div class="student-note">Co-advised with Dr. Muhammad Rashed</div>
   </div>
 
